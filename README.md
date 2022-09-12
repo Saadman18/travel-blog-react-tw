@@ -1,5 +1,7 @@
 ## WANDr
-<p> A travel blog site built using react and tailwind css. <br> The site is fully responsive across all platforms and has dark mode. </p>
+<p> A travel blog site built using react and tailwind css. <br> 
+Data is consumed from the data.js file to to simply imitate consuming an actual API data. <br>
+The site is fully responsive across all platforms and has dark mode feature. </p>
 
 
 ### Project structure:
