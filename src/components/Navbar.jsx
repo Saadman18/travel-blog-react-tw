@@ -42,7 +42,7 @@ export default function Navbar(){
                     <FontAwesomeIcon className="text-red-400 text-m p-1" icon={faCircle} />
                 </div>
                 <div className="flex gap-2">
-                    <FontAwesomeIcon className="text-slate-700 dark:text-pink-300/90 text-3xl transition duration-700 ease-linear" icon={faEarthAsia} />
+                    <FontAwesomeIcon className="text-slate-700 dark:text-pink-400/90 text-3xl transition duration-700 ease-linear" icon={faEarthAsia} />
                     <h3 className="text-slate-700 dark:text-slate-100 text-2xl font-bold">WANDr</h3>
                 </div>
             </div>
