@@ -3,6 +3,7 @@
 Data is consumed from the data.js file to to simply imitate consuming an actual API data. <br>
 The site is fully responsive across all platforms and has dark mode feature. </p>
 
+<img src="/public/assets/WANDr-light.png" /> 
 
 ### Project structure:
 <p>
